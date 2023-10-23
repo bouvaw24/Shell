@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/projects"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"types.h": "c",
+			"stdio.h": "c",
+			"header.h": "c"
+		}
+	}
+}
